@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592707363886",
+    "project_id": "simpleinstagramclone-a679c",
+    "storage_bucket": "simpleinstagramclone-a679c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592707363886:android:eacc6ec3a90cc2604aabbf",
+        "android_client_info": {
+          "package_name": "com.javal.simpleinstagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592707363886-dqqol0bi3nacgp18p0uj05pmuagf97sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqcsL7UiRXg7ZK-suTsl3QPIHnQfJYVwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592707363886-dqqol0bi3nacgp18p0uj05pmuagf97sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
